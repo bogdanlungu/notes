@@ -69,12 +69,12 @@ mobile-experience@1.0.4
 mobile-status-bar@1.0.12
 modules@0.7.6_1
 modules-runtime@0.7.6_1
-mongo@1.1.12_5
+mongo@1.1.13
 mongo-id@1.0.5
 mongo-livedata@1.0.12
 multiply:iron-router-progress@1.0.2
 npm-bcrypt@0.8.6_3
-npm-mongo@2.2.10_1
+npm-mongo@2.2.11_1
 observe-sequence@1.0.12
 okgrow:analytics@1.0.9
 ordered-dict@1.0.8
